@@ -1,0 +1,7 @@
+torch
+requests
+pandas
+numpy
+scikit-learn
+transformers
+gzip
